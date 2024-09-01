@@ -1,5 +1,5 @@
-#ifndef VECTOR.H
-#define VECTOR.H
+#ifndef VECTOR_H
+#define VECTOR_H
 #include "dot.h"
 class Vector {
 public:
