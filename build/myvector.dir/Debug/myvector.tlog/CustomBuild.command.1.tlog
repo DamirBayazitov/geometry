@@ -1,0 +1,10 @@
+^C:\USERS\DAMIR\GEOMETRY-OBJECTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Damir/geometry-objects -BC:/Users/Damir/geometry-objects/build --check-stamp-file C:/Users/Damir/geometry-objects/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
