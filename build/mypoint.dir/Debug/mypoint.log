@@ -1,5 +1,0 @@
-﻿  Building Custom Rule C:/Users/Damir/geometry-objects/CMakeLists.txt
-  point.cpp
-  mypoint.vcxproj -> C:\Users\Damir\geometry-objects\build\Debug\mypoint.lib
-C:\Users\Damir\geometry-objects\include\point.h(7): warning C26495: Variable 'Point::x' is uninitialized. Always initialize a member variable (type.6).
-C:\Users\Damir\geometry-objects\include\point.h(7): warning C26495: Variable 'Point::y' is uninitialized. Always initialize a member variable (type.6).

@@ -1,5 +1,0 @@
-C:/Users/Damir/geometry-objects/build/CMakeFiles/myvector.dir
-C:/Users/Damir/geometry-objects/build/CMakeFiles/mypoint.dir
-C:/Users/Damir/geometry-objects/build/CMakeFiles/geometry.dir
-C:/Users/Damir/geometry-objects/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Damir/geometry-objects/build/CMakeFiles/ZERO_CHECK.dir
