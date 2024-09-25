@@ -1,5 +1,0 @@
-C:/Users/Damir/geometry-objects/out/build/x64-debug/CMakeFiles/myvector.dir
-C:/Users/Damir/geometry-objects/out/build/x64-debug/CMakeFiles/mypoint.dir
-C:/Users/Damir/geometry-objects/out/build/x64-debug/CMakeFiles/geometry.dir
-C:/Users/Damir/geometry-objects/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/Damir/geometry-objects/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

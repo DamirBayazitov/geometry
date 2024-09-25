@@ -1,7 +1,0 @@
-# ninja log v6
-12	607	7482069870111375	CMakeFiles/geometry.dir/src/main.cpp.obj	da713be32afcc486
-4	610	7482069870031351	CMakeFiles/myvector.dir/src/vector.cpp.obj	3f61567da2e4dc56
-8	618	7482069870081371	CMakeFiles/mypoint.dir/src/point.cpp.obj	bf4d96c8b78935b6
-610	644	7482069876096427	myvector.lib	566cf52925741a25
-619	649	7482069876186416	mypoint.lib	bc0a57c344cdc7d2
-649	847	7482069876486445	geometry.exe	a905531fb2e33cc1
