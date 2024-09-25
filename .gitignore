@@ -1,3 +1,4 @@
 *.exe
 .vscode/
 geometry-objects/build/
+out/build/x64-debug/
